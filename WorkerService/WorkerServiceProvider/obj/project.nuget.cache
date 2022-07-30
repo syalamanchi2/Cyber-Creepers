@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LAjEUAqo0KULaSW5Of5t9QQemW+nQz0PPW3g7q5Nc/0SIgHNv5J5Da2APsiOva7X8tKBYb8qNxMOVucG5aGr4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hackvmadmin\\source\\repos\\WorkerService\\WorkerServiceProvider\\WorkerServiceProvider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hackvmadmin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

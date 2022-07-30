@@ -1,0 +1,12 @@
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\bin\Debug\net6.0\WorkerServiceEntities.deps.json
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\bin\Debug\net6.0\WorkerServiceEntities.dll
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\bin\Debug\net6.0\WorkerServiceEntities.pdb
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.csproj.AssemblyReference.cache
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.AssemblyInfoInputs.cache
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.AssemblyInfo.cs
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.csproj.CoreCompileInputs.cache
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.dll
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\refint\WorkerServiceEntities.dll
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\WorkerServiceEntities.pdb
+C:\Users\hackvmadmin\source\repos\WorkerService\Entities\obj\Debug\net6.0\ref\WorkerServiceEntities.dll
