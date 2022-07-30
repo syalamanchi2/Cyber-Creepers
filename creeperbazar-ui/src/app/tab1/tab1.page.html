@@ -1,0 +1,31 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title color="dark">
+      Creeper Bazar
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-grid>
+    <ion-row>
+      <ion-col *ngFor="let lob of lobs" size-sm="12" size-md="6" size-lg="3">
+        <ion-card (click)="cardClicked(lob)">
+          <ion-item>
+            <ion-icon [name]="lob.icon" slot="start" [color]="lob.iconColor"> </ion-icon>
+            <ion-label>{{lob.name}}</ion-label>
+          </ion-item>
+
+          <ion-card-content>
+            {{lob.desc}}
+          </ion-card-content>
+          <ion-item>      
+            <ion-button slot="end">
+              <ion-icon slot="icon-only" name="arrow-forward"></ion-icon>
+            </ion-button>
+          </ion-item>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
